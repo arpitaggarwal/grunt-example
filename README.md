@@ -41,4 +41,6 @@ grunt.loadNpmTasks('grunt-contrib-uglify');
 ```
 
 ### Grunt commands
-`grunt --help` - command will list all available tasks.
+1. `grunt --help` - list all available tasks.
+
+2. `grunt install` - install all `devDependencies` mentioned in `package.json`.
